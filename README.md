@@ -35,18 +35,6 @@ Performance and user experience always come first.
 
 ---
 
-## 🧩 Highlighted Work
-- 🎣 **Roblox Fishing System**  
-  Rarity-based fishing, animated UI, DataStore persistence
-
-- 🤖 **Telegram Automation Bot**  
-  Async handling, custom emoji system, flood-wait safe
-
-- ✨ **Aura & Gamepass System**  
-  Ownership check, auto-equip, smooth UX flow
-
----
-
 ## 🌌 Connect With Me
 <p align="center">
   <a href="https://github.com/Xequille">
