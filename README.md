@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f2027,50:203a43,100:2c5364&text=Ibra%20Jacquille&fontSize=40&fontColor=ffffff" />
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="100%" />
 </p>
 
-<h3 align="center">🎮 Roblox Developer • 🐍 Python • 🤖 Automation</h3>
+<h2 align="center">Ibra Jacquille</h2>
+<h4 align="center">🎮 Roblox Developer • 🐍 Python • 🤖 Automation</h4>
 
 <p align="center">
   <i>Crafting systems, experiences, and tools with clean logic & dark aesthetics.</i>
@@ -26,11 +27,15 @@ Performance and user experience always come first.
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xequille&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xequille&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xequille&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xequille&theme=github_dark" />
 </p>
 
 ---
